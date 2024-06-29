@@ -2,7 +2,7 @@
 ### Jetson Nano Technical Development Series Related to VAIRC
 This series introduces the technical development related to VAIRC on Jetson Nano.\
 The first topic is "Inference of Pre-trained Models on Jetson Nano," which introduces training an MNIST handwritten digit recognition model on an external computing device, converting it, and then importing it into Jetson for inference.\
-This serves as technical preparation for the next topic.
+This serves as technical preparation for the next topic.\
 The second topic is the fine-tuning of pre-trained models. VAIRC often uses pre-trained models.
 
 ### VAIRC相关的Jetson nano的技术开发专题
