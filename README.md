@@ -1,8 +1,8 @@
 
 ### Jetson Nano Technical Development Series Related to VAIRC
-This series of topics focuses on introducing the development techniques related to VAIRC on the Jetson nano.
-Topic 1, "Inference of Pre-trained Models on Jetson nano," introduces the process of training an MNIST handwritten digit recognition model on an external computing device, transforming it, and importing it into the Jetson for recognition and inference. This serves as a technical preparation for the following topics that involve necessary fine-tuning of pre-trained models.
-Topic 2, "Jetson Vision Recognition," delves into the programming aspects of importing pre-trained models for inference on the Jetson Nano platform. It aims to familiarize beginners with Jupyterlab programming and the JetPACK environment on the Jetson Nano, laying the foundation for VAIRC programming in Python on the Jetson end.
+This series of topics focuses on introducing the development techniques related to VAIRC on the Jetson nano.\
+Topic 1, "Inference of Pre-trained Models on Jetson nano," introduces the process of training an MNIST handwritten digit recognition model on an external computing device, transforming it, and importing it into the Jetson for recognition and inference. This serves as a technical preparation for the following topics that involve necessary fine-tuning of pre-trained models.\
+Topic 2, "Jetson Vision Recognition," delves into the programming aspects of importing pre-trained models for inference on the Jetson Nano platform. It aims to familiarize beginners with Jupyterlab programming and the JetPACK environment on the Jetson Nano, laying the foundation for VAIRC programming in Python on the Jetson end.\
 Topic 3 introduces the frequent need for necessary fine-tuning of pre-trained models in VAIRC applications.
 
 ### VAIRC相关的Jetson nano的技术开发专题
