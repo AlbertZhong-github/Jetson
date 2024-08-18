@@ -9,5 +9,5 @@ Topic 3 introduces the frequent need for necessary fine-tuning of pre-trained mo
 本专题系列为介绍与VAIRC相关的Jetson nano的开发技术。\
 专题1“预训练模型在Jetson nano上推理”，介绍在外部计算设备上训练一个MNIST手写数字的识别模型，经变换后导入到Jetson进行识别推理。\
 这是为以下对预训练模型进行必要微调的专题做好技术准备。\
-专题2“Jetson视觉识别”,介绍在Jetson Nano平台上导入预训练模型进行推理的编程，让初学者能够熟悉Jetson Nano上Jupyterlab编程和JetPACK环境，建立VAIRC程序Jetson端python编程的基础。
+专题2“Jetson视觉识别”,介绍在Jetson Nano平台上导入预训练模型进行推理的编程，让初学者能够熟悉Jetson Nano上Jupyterlab编程和JetPACK环境，建立VAIRC程序Jetson端python编程的基础。\
 专题3是介绍VAIRC经常需要对预训练模型进行必要的微调。
