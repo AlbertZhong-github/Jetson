@@ -1,8 +1,3 @@
----
-noteId: "d5e74da0614811ef9fcab312f1d23de1"
-tags: []
-
----
 
 **Darknet** 是一个开源的神经网络框架，如Tensorflow及Pytorch一样，用于实现和训练深度学习模型，尤其是针对卷积神经网络（CNN）。它以其高效、轻量级和灵活的特点广受关注，最著名的应用就是 YOLO（You Only Look Once）系列的目标检测模型。特别适用于Jetson系列边缘计算平台。
 
