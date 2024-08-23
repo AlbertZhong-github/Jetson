@@ -175,8 +175,10 @@ pip3 install numpy
 PYTHON=1
 ```
 
-再次运行 `make` 来编译 Python 绑定。
-
+再次运行 `make` 来编译 Python 绑定。重新编译后，将在新的darknet中内嵌一个python解释器、增加能被python调用的libdarknet.so动态库，可以使用下列命令。执行python程序。
+```bash
+./darknet detect.py cfg/yolov3.cfg yolov3.weights data/car.jpg -thresh 0.5 
+```
 ### 8\. 开始使用
 
 现在，Darknet 已经在你的 Jetson Nano 上成功安装并配置好，你可以开始进行训练或推理任务了。
@@ -188,3 +190,4 @@ PYTHON=1
 - 使用 Jetson Nano 时，最好插入一个额外的电源适配器（如 5V 4A），以确保设备在全负荷运行时能获得足够的电力。
 
 安装完成后，你可以开始探索和使用 Darknet 进行各种计算机视觉任务了。
+darknet开发框架内部组织结构、功能以及编程的详细介绍请参考本目录的“darknet开发框架的介绍”。
