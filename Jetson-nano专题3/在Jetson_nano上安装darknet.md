@@ -172,7 +172,7 @@ PYTHON=1
 
 再次运行 `make` 来编译 Python 绑定。重新编译后，将在新的darknet中内嵌一个python解释器、增加能被python调用的libdarknet.so动态库，可以使用下列命令。执行python程序。
 ```bash
-./darknet detect.py cfg/yolov3.cfg yolov3.weights data/car.jpg -thresh 0.5 
+./darknet darknet_images.py cfg/yolov3.cfg yolov3.weights data/car.jpg -thresh 0.5 
 ```
 ### 8\. 开始使用
 
